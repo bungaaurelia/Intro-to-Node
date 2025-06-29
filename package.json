@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "22.17.0",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bungaaurelia/Intro-to-Node.git"
+  },
+  "author": "bungaaurelia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bungaaurelia/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/bungaaurelia/Intro-to-Node#readme"
+}
